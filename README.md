@@ -42,3 +42,13 @@ Assessing model accuracy is very similar to that of simple linear regression. Ou
 - Task 7: Interaction Effect (Synergy) in Regression Analysis
 
 From our previous analysis of the residuals, we concluded that we need to incorporate interaction terms due to the non-additive relationship between the features and target. A simple method to extend our model to allow for interaction effects is to include a third feature by taking the product of the other two features in our model. This feature will have its separate slope coefficient which can be interpreted as the increase in the effectiveness of radio advertising for a one unit increase in TV advertising or vice versa.
+
+
+###CERTIFICATE DETAILS
+
+- Name: Multiple Linear Regression with scikit-learn
+- Issuing Organization: Coursera
+- Issue Date: May 2020
+- Expiration Date: This certification does not expire
+- Credential ID: 9XMUAVXTPJWJ
+- Credential URL: https://www.coursera.org/account/accomplishments/certificate/9XMUAVXTPJWJ
